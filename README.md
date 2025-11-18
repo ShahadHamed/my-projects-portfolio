@@ -2,7 +2,7 @@
 Welcome to my project portfolio! This repository showcases the projects I've worked on during my learning journey.
 ## :file_folder: Projects
 ### 1. Tech Learning Journal
-**Repository**: [tech-learning](link-to-your-repo)
+**Repository**: https://github.com/ShahadHamed/tech-learning
 - **Description**: Technical documentation and reports about software development concepts
 - **Technologies**: Git, GitHub, Markdown
 - **What I Learned**: Version control, technical writing, software development fundamentals
